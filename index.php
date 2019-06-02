@@ -1,4 +1,4 @@
 <?php
-echo "pfa Seifeddine berkaya ";
+echo "pfa Seifeddine berkaya test Ubuntu ";
 phpinfo();
 ?>
