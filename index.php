@@ -1,4 +1,4 @@
 <?php
-echo "saife";
+echo "saife 2";
 phpinfo();
 ?>
