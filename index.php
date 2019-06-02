@@ -1,4 +1,4 @@
 <?php
-echo "";
+echo "pfa seifeddine berkaya";
 phpinfo();
 ?>
